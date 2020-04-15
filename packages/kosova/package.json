@@ -1,0 +1,19 @@
+{
+	"name": "@svg-maps/kosova",
+	"version": "1.0.0",
+	"description": "Map of Kosova",
+	"main": "index.js",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/VictorCazanave/svg-maps/tree/master/packages/kosova"
+	},
+	"keywords": [
+		"svg",
+		"map",
+		"kosova"
+	],
+	"author": "Sabri Hakuli",
+	"publishConfig": {
+		"access": "public"
+	}
+}
