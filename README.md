@@ -74,11 +74,12 @@ Thanks goes to these wonderful people:
     <td align="center"><a href="https://github.com/tae8838"><img src="https://avatars3.githubusercontent.com/u/7782153?v=4" width="100px;" alt=""/><br /><sub><b>Tae</b></sub></a><br /><a href="https://github.com/VictorCazanave/svg-maps/commits?author=tae8838" title="Code">💻</a></td>
     <td align="center"><a href="http://k9-build.blogspot.co.uk/"><img src="https://avatars1.githubusercontent.com/u/5486945?v=4" width="100px;" alt=""/><br /><sub><b>Richard Hopkins</b></sub></a><br /><a href="https://github.com/VictorCazanave/svg-maps/commits?author=hopkira" title="Code">💻</a></td>
     <td align="center"><a href="http://apper.tech"><img src="https://avatars2.githubusercontent.com/u/35299529?v=4" width="100px;" alt=""/><br /><sub><b>Muhammed Mazen Hafez</b></sub></a><br /><a href="https://github.com/VictorCazanave/svg-maps/commits?author=mh-mazen" title="Code">💻</a></td>
-    <td align="center"><a href="https://www.linkedin.com/in/sabrihakuli/"><img src="https://media-exp1.licdn.com/dms/image/C4D03AQFSSLS7ma8pPQ/profile-displayphoto-shrink_800_800/0?e=1592438400&v=beta&t=cAGCdotFBpmjOOgm17npN__47jKvc4w-c7X4FV0hTxU" width="100px;" alt=""/><br /><sub><b>Sabri Hakuli </b></sub></a><br /></td>
+    
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/Abiseban147"><img src="https://avatars2.githubusercontent.com/u/31163831?v=4" width="100px;" alt=""/><br /><sub><b>Abiseban</b></sub></a><br /><a href="https://github.com/VictorCazanave/svg-maps/commits?author=Abiseban147" title="Code">💻</a></td>
     <td align="center"><a href="https://noorjafri.com"><img src="https://avatars3.githubusercontent.com/u/13905049?v=4" width="100px;" alt=""/><br /><sub><b>Noor Jafri</b></sub></a><br /><a href="https://github.com/VictorCazanave/svg-maps/commits?author=nurely" title="Code">💻</a></td>
+    <td align="center"><a href="https://www.linkedin.com/in/sabrihakuli/"><img src="https://media-exp1.licdn.com/dms/image/C4D03AQFSSLS7ma8pPQ/profile-displayphoto-shrink_800_800/0?e=1592438400&v=beta&t=cAGCdotFBpmjOOgm17npN__47jKvc4w-c7X4FV0hTxU" width="100px;" alt=""/><br /><sub><b>Sabri Hakuli </b></sub></a><br /></td>
   </tr>
 </table>
 
